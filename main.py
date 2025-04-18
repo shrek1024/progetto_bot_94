@@ -25,3 +25,6 @@ import tensorflow as tf
 import numpy as np
 import requests 
 import keras
+import discord
+import yolov
+import imageai
