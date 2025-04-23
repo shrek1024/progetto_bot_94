@@ -1,3 +1,6 @@
+x  = 0
+print(x)
+#ciao
 #/*--
 #
 # Copyright (c) 2025  Frêney Studios
@@ -35,7 +38,7 @@ except Exception as e:
 
 ################### CFG VARIABLES #######################
 show_module_ver : bool = True
-version 			  : str  = "v.0.0.1"
+version 			  : str  = "v.0.0.2"
 legalcaption 	  : str  = "Copyright (c) Frêney Studios and affiliates"
 
 ################### MODULE VERSIONS #######################
@@ -48,4 +51,3 @@ if show_module_ver:
 	print(" - discord:		" + discord.__version__)
 	print(" - YOLOv:			" + yolov.__version__)
 	print(" - ImageAI:		" + imageai.__version__)
-

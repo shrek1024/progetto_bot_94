@@ -6,6 +6,10 @@ name = "pypi"
 [packages]
 "discord.py" = "*"
 imageai = "*"
+tensorflow = "==2.12.0"
+keras = "==2.12.0"
+requests = "*"
+numpy = "*"
 
 [dev-packages]
 
